@@ -24,4 +24,8 @@ The 7th character in each audio file's name indicates the emotion.
 Comprises around 500 audio files recorded by 4 different male actors.
 The first two characters of the file name correspond to the different emotions portrayed.
 
+## Audio files:
+Tested out the audio files by plotting out the waveform and a spectrogram to see the sample audio files.
+Waveform
+![image](https://github.com/user-attachments/assets/5ed89121-9965-4811-8e8d-1f52cc5b651f)
 
