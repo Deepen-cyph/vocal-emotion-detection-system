@@ -1,4 +1,4 @@
-# vocal-emotion-detection-system
+# Vocal-Emotion-Detection-System
 ## Introduction
 
 This project aims to develop a machine learning model capable of detecting emotions from speech, addressing the growing demand for personalized experiences. By analyzing vocal inputs, our emotional speech recognition system can identify the speaker's emotions, enabling tailored recommendations and responses.
